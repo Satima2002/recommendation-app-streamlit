@@ -3,11 +3,6 @@ pandas
 matplotlib
 plotly
 scikit-learn
-itertools
-pickle
-requests
 networkx 
-math 
-scipy 
-pyvis
+
 
