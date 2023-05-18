@@ -2,7 +2,6 @@ numpy
 pandas
 matplotlib
 plotly
-streamlit
 scikit-learn
 itertools
 pickle
@@ -11,6 +10,5 @@ networkx
 math 
 time 
 scipy 
-streamlit.components.v1
-pyvis.network 
+pyvis
 
